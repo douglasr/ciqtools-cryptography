@@ -1,0 +1,6 @@
+CIQ Tools - Cryptography
+------------------------
+(c)2023 Douglas Robertson (douglas@edgeoftheearth.com)
+
+0.1.0  --  10-Nov-2023
+  - first BETA release
