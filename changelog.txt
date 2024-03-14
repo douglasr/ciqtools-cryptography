@@ -1,0 +1,12 @@
+CIQ Tools - Cryptography
+------------------------
+(c)2022-2024 Douglas Robertson (douglas@edgeoftheearth.com)
+
+0.3.0  --  14-Mar-2024
+  - first public release
+
+0.2.0  --  24-Nov-2023
+  - removed use of device unique ID as the hardcoded cipher key
+
+0.1.0  --  10-Nov-2023
+  - first BETA release
