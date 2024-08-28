@@ -2,6 +2,12 @@ CIQ Tools - Cryptography
 ------------------------
 (c)2022-2024 Douglas Robertson (douglas@edgeoftheearth.com)
 
+0.3.1  --  28-Aug-2024
+  - code cleanup
+  - add Edge 1050 to manifest
+  - add fēnix 8 devices to manifest
+  - add Enduro3 to manifest
+
 0.3.0  --  14-Mar-2024
   - first public release
 
