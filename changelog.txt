@@ -2,11 +2,14 @@ CIQ Tools - Cryptography
 ------------------------
 (c)2022-2025 Douglas Robertson (douglas@edgeoftheearth.com)
 
+0.3.2  --  09-Jan-2025
+  - added Instinct 3 and Instinct E devices to manifest
+
 0.3.1  --  28-Aug-2024
   - code cleanup
-  - add Edge 1050 to manifest
-  - add fēnix 8 devices to manifest
-  - add Enduro3 to manifest
+  - added Edge 1050 to manifest
+  - added fēnix 8 devices to manifest
+  - added Enduro 3 to manifest
 
 0.3.0  --  14-Mar-2024
   - first public release
