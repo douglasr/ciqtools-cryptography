@@ -1,6 +1,6 @@
 CIQ Tools - Cryptography
 ------------------------
-(c)2022-2024 Douglas Robertson (douglas@edgeoftheearth.com)
+(c)2022-2025 Douglas Robertson (douglas@edgeoftheearth.com)
 
 0.3.1  --  28-Aug-2024
   - code cleanup
