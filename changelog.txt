@@ -2,6 +2,16 @@ CIQ Tools - Cryptography
 ------------------------
 (c)2022-2025 Douglas Robertson (douglas@edgeoftheearth.com)
 
+0.3.4  --
+  - added new devices to manifest
+      - Descent G2
+      - Lily 2
+      - Vivoactive 6
+      - vivomove 3
+
+0.3.3  --  21-Jan-2025
+  - added Approach S50 to manifest
+
 0.3.2  --  09-Jan-2025
   - added Instinct 3 and Instinct E devices to manifest
 
