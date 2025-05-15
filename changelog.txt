@@ -2,7 +2,13 @@ CIQ Tools - Cryptography
 ------------------------
 (c)2022-2025 Douglas Robertson (douglas@edgeoftheearth.com)
 
-0.3.4  --
+0.3.5  -- 15-May-2025
+  - added new devices to manifest
+      - Forerunner 570 (42mm)
+      - Forerunner 570 (47mm)
+      - Forerunner 970
+
+0.3.4  -- 02-Apr-2025
   - added new devices to manifest
       - Descent G2
       - Lily 2
