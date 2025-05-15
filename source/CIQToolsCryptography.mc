@@ -56,7 +56,7 @@ module CIQToolsCryptography {
             var plainTextBlock = plainText.substring(idx, idx+16) as String;
             var byteArray = padByteArray(getStringAsByteArray(plainTextBlock, StringUtil.REPRESENTATION_STRING_PLAIN_TEXT), 16);
             var tmpCipher = cipher.encrypt(byteArray);
-            if (encryptedByteArray == null) {
+            if (idx == 0) {
                 encryptedByteArray = tmpCipher;
             } else {
                 encryptedByteArray.addAll(tmpCipher);
@@ -86,7 +86,7 @@ module CIQToolsCryptography {
         while (idx < encryptedByteArray.size()) {
             var blockSizedEncryptedByteArray = encryptedByteArray.slice(idx, idx+16);
             var tmpByteArray = cipher.decrypt(blockSizedEncryptedByteArray);
-            if (decryptedByteArray == null) {
+            if (idx == 0) {
                 decryptedByteArray = tmpByteArray;
             } else {
                 decryptedByteArray.addAll(tmpByteArray);
