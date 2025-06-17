@@ -2,6 +2,9 @@ CIQ Tools - Cryptography
 ------------------------
 (c)2022-2025 Douglas Robertson (douglas@edgeoftheearth.com)
 
+0.3.6  -- 17-Jun-2025
+  - added Venu X1 to manifest
+
 0.3.5  -- 15-May-2025
   - added new devices to manifest
       - Forerunner 570 (42mm)
