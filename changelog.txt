@@ -2,6 +2,16 @@ CIQ Tools - Cryptography
 ------------------------
 (c)2022-2025 Douglas Robertson (douglas@edgeoftheearth.com)
 
+0.3.7  -- 28-Sep-2025
+  - added new devices to manifest
+      - Edge 550 / 850
+      - Edge MTB
+      - Fenix 8 Pro
+      - GPSMAP H1
+      - Instinct Crossover AMOLED
+      - Venu 4 (41mm / 45mm)
+      - Vivomove 4
+
 0.3.6  -- 17-Jun-2025
   - added Venu X1 to manifest
 
