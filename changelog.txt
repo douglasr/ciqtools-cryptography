@@ -1,6 +1,6 @@
 CIQ Tools - Cryptography
 ------------------------
-(c)2022-2025 Douglas Robertson (douglas@edgeoftheearth.com)
+(c)2022-2026 Douglas Robertson (douglas@edgeoftheearth.com)
 
 0.3.9  --  14-Apr-2025
   - added eTrex Touch to manifest
