@@ -2,7 +2,11 @@ CIQ Tools - Cryptography
 ------------------------
 (c)2022-2026 Douglas Robertson (douglas@edgeoftheearth.com)
 
-0.3.9  --  14-Apr-2025
+0.4.0  --  12-May-2026
+  - added Forerunner 70 to manifest
+  - added Forerunner 170 devices to manifest
+
+0.3.9  --  14-Apr-2026
   - added eTrex Touch to manifest
   - added D2 Mach 2 Pro to manifest
 
