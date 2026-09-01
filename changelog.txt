@@ -2,6 +2,9 @@ CIQ Tools - Cryptography
 ------------------------
 (c)2022-2026 Douglas Robertson (douglas@edgeoftheearth.com)
 
+0.4.1  --  01-Sep-2026
+  - added Fenix 9 devices to manifest
+
 0.4.0  --  12-May-2026
   - added Forerunner 70 to manifest
   - added Forerunner 170 devices to manifest
